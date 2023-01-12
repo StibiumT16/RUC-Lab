@@ -1,0 +1,14 @@
+int main(){
+    int b[10], a;
+    b[2] = 010;
+    int test = 1 + 2 + 3 + 4 + 5;
+    int test = 0xabcde;
+    a = b[2];
+    while (a > 0) {
+        a = a - 1;
+        if (a == 5)
+            break;
+        continue;
+    }
+    return a;
+}

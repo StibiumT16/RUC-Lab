@@ -1,0 +1,10 @@
+// a + b problem
+
+int main() {
+    int a;
+    int b;
+    scanf(a);
+    scanf(b);
+    int c = a + b;
+    printf(c);
+}

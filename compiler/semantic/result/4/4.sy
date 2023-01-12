@@ -1,0 +1,13 @@
+int main() {
+    int a[6][6];
+    int i = 1, j = 1;
+    while (i < 5 && j < 5) {
+        a[i][j] = i + j;
+        j = j + 1;
+    }
+    while (i < 5 && j < 6) {
+        a[i][j] = i - j;
+        i = i + 1;
+    }
+    printf(a[1][1] + a[1][4] + a[4][5]);
+}

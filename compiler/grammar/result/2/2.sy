@@ -1,0 +1,37 @@
+const int abc;
+const int pad = 10, rew = 20, reowi = 40;
+int 123abc;
+
+int func(int a, int c[], int d[h + e]) {
+    int a = 10, g, h, j;
+    while (a <= 10 || b > 2 && a + b < c)
+        a = a + 1;
+    if (a && b != c)
+        return a + b * c;
+    else {
+        const int b = 100;
+        a + b;
+    }
+    func();
+    func(a, b + 128 * pp + 2, c, d, e);
+    return;
+}
+
+int error1 () {
+    while (1) {
+        node point;
+    }
+    if (a < ) return 0;
+}
+
+int main() {
+    if (a > b)
+        if (c > d)
+            a = b;
+    else b = a;
+    return 0;
+}
+
+int test (a) {
+    int b;
+}

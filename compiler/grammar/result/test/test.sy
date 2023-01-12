@@ -1,0 +1,12 @@
+const int N = 100;
+int a[N];
+
+int func(int x) {
+    if (x == 1 || x == 0) return 1;
+    else return func(x - 1) + func(x - 2);
+}
+
+int main() {
+    int b = 10;
+    a[0] = func(b + 2);
+}
