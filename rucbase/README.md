@@ -1,4 +1,5 @@
 # RucBase
+[原项目](https://github.com/ruc-deke/rucbase-lab)
 ```
  ____  _   _  ____ ____    _    ____  _____ 
 |  _ \| | | |/ ___| __ )  / \  / ___|| ____|
